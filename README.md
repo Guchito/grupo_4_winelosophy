@@ -1,4 +1,4 @@
-# grupo_4_winelosophy
+# grupo_4_VINARIAM
 
 E commerce dedicado a la venta de:
 
